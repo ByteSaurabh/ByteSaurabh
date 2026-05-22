@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #FF69B4;">Hey there! 👋 I'm Saurabh Sharma</h1>  
 <h3 align="center" style="color: #1E90FF;">✨ A passionate Full Stack Developer from India 🌍</h3>
 
-![Header Image](https://github.com/ByteSaurabh/ByteSaurabh/blob/main/github-header-image%20(4).png)
+![Header Image](https://github.com/ByteSaurabh/ByteSaurabh/blob/main/github-header-image%20(1).png)
 
 ---
 
